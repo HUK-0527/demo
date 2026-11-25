@@ -1,0 +1,42 @@
+[
+  {
+    "clue": "Calypso house has lively area (4)",
+    "reasoning": "1. The definition is at the end of the clue: 'lively area'.\n2. The wordplay indicates a hidden answer ('has' signals that the answer is contained in the preceding words).\n3. Look inside 'CALYPSO HOUSE' for a consecutive string of four letters: ...CALYP[SOHO]USE...\n4. Those four letters spell SOHO.\n5. SOHO is famously a lively district (area), matching the definition.",
+    "answer": "SOHO"
+  },
+  {
+    "clue": "Sin that's petty with leader going, penning personal resignation (8)",
+    "reasoning": "We need an 8-letter word meaning 'Sin' (the definition at the beginning). The rest is wordplay:\n1. petty → TINY\n2. 'with leader going' → remove the leader (first letter T) from TINY, giving INY\n3. personal resignation → I QUIT (I = personal pronoun; QUIT = resign)\n4. 'penning' → container indicator, so insert IQUIT into INY: IN + IQUIT + Y → INIQUITY\n5. INIQUITY means 'sin', matching the definition.",
+    "answer": "INIQUITY"
+  },
+  {
+    "clue": "Ceremony is proper for the audience (4)",
+    "reasoning": "1. Definition: 'Ceremony' suggests the answer is a word meaning ceremony.\n2. Wordplay indicator: 'for the audience' signals a homophone.\n3. Fodder: 'proper' gives RIGHT.\n4. Homophone of RIGHT → RITE.\n5. RITE (4 letters) matches the definition 'ceremony'.",
+    "answer": "RITE"
+  },
+  {
+    "clue": "Mexican food thus, queen perhaps served up? (5)",
+    "reasoning": "1. Definition: 'Mexican food' (5) suggests TACOS.\n2. Wordplay: 'thus' → SO.\n3. 'queen perhaps' → CAT (a 'queen' is a breeding female cat in animal-breeding jargon).\n4. Together 'thus, queen perhaps' gives SO CAT.\n5. 'served up?' is a reversal indicator. Reverse SO CAT → TACOS.\n6. TACOS matches the definition 'Mexican food'.",
+    "answer": "TACOS"
+  },
+  {
+    "clue": "Doctor stationed to provide remedies (9)",
+    "reasoning": "1. Definition: 'provide remedies' indicates a verb meaning 'gives remedies'.\n2. 'Doctor' is the anagram indicator.\n3. Fodder: the nine letters of 'stationed'.\n4. Anagramming STATIONED → ANTIDOTES.\n5. ANTIDOTES means 'provides remedies', matching the definition.",
+    "answer": "ANTIDOTES"
+  },
+  {
+    "clue": "Accept offer to go into A&E (5)",
+    "reasoning": "1. The definition is 'Accept', which can be clued by the verb ABIDE (as in 'abide by the rules' = 'accept the rules').\n2. The wordplay is 'offer to go into A&E'.\n3. 'Offer' cryptically clues BID.\n4. 'A&E' supplies AE (dropping the ampersand).\n5. 'To go into' signals insertion: insert BID into AE, yielding A + BID + E = ABIDE.\n6. ABIDE means 'accept', matching the definition and the 5-letter enumeration.",
+    "answer": "ABIDE"
+  },
+  {
+    "clue": "Rocky somewhere in Bedfordshire, initially lost (8)",
+    "reasoning": "1. The definition is 'Rocky', suggesting a word meaning unsteady or unstable.\n2. 'Somewhere in Bedfordshire' gives the place name DUNSTABLE.\n3. The indicator 'initially lost' tells us to remove the first letter of DUNSTABLE.\n4. Dropping the initial D from DUNSTABLE yields UNSTABLE.\n5. UNSTABLE (8 letters) means 'rocky', confirming the definition.",
+    "answer": "UNSTABLE"
+  },
+  {
+    "clue": "Confounded figure out on bail regularly (8)",
+    "reasoning": "1. The definition is 'Confounded', which can colloquially mean 'infernal' (as in 'that infernal contraption').\n2. Wordplay:\n  a. 'figure' clued by INFER (to figure out).\n  b. 'on bail regularly' means take the letters in the even positions of the phrase ON BAIL → positions 2, 4, 6 give N A L.\n3. Append NAL to INFER to build the answer: INFER + NAL → INFERNAL, matching the definition.",
+    "answer": "INFERNAL"
+  }
+]
